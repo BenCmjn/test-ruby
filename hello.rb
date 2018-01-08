@@ -1,1 +1,1 @@
-print "Hello world! ahaha !"
+print "Bonjour monde !"
